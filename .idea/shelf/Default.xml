@@ -1,0 +1,44 @@
+<changelist name="Default" date="1548525549123" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Default/shelved.patch" />
+  <option name="DESCRIPTION" value="Default" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="vendor/sebastian/diff/tests/fixtures/serialized_diff.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default/serialized_diff.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default/phpunit-example-extension-3.0.3.phar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="vendor/phar-io/manifest/tests/_fixture/test.phar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default/test.phar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="vendor/myclabs/deep-copy/doc/deep-clone.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default/deep-clone.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="vendor/myclabs/deep-copy/doc/graph.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default/graph.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="vendor/myclabs/deep-copy/doc/deep-copy.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default/deep-copy.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="vendor/theseer/tokenizer/tests/_files/test.php.tokens" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default/test.php.tokens" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="vendor/myclabs/deep-copy/doc/clone.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default/clone.png" />
+  </binary>
+</changelist>
